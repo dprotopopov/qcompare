@@ -131,6 +131,8 @@ NB. Мы не будем сейчас рассматривать вопросы 
 
 Таким образом получилась следующая схема алгоритма https://drive.google.com/file/d/1KIl4LVzPNoPKOQoURHmkVilz_Czxe4tC/view?usp=sharing
 
+![Статистическое сравнение двух последовательностей](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaAOpnM6MMQbabS1Fsj5QmxZjFpgyv6xqhaJ85tVhP9cyXsTTdN3CImBS_ITleqJdhn6N3KnZ892SvEJX3_UXsmGpZ-O=w2784-h1552)
+
 ## Проверим рассуждения написанием программы на Q-sharp и прогона тестов
 
 1. Нам потребуются арифметические операции
