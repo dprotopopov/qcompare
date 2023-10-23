@@ -407,14 +407,11 @@ Random/Binom0: (7, [10,15,10,15,14,7,12,17])
 
 Вроде всё правильно ...
 
-Примечание. То, что Binom0/Binom0 совпало со смещением 7 - то это тоже правильный ответ, поскольку биноминальное распределение симметрично, то есть С(k, 7) = C(n xor 7, 7)
+Примечание. То, что Binom0/Binom0 совпало со смещением 7 - то это тоже правильный ответ, поскольку биноминальное распределение симметрично, то есть С(k, 7) = C(k xor 7, 7)
 
 ## Ссылки
 
 - https://github.com/dprotopopov/qcompare
-- https://ru.wikipedia.org/wiki/Шифр_Цезаря
-- https://ru.wikipedia.org/wiki/Алгоритм_Гровера
-- https://learn.microsoft.com/ru-ru/azure/quantum/tutorial-qdk-grovers-search?tabs=tabid-visualstudio
 - https://learn.microsoft.com/ru-ru/azure/quantum/user-guide/host-programs?tabs=tabid-copilot
 - https://learn.microsoft.com/ru-ru/training/modules/qsharp-create-first-quantum-development-kit/2-install-quantum-development-kit-code
 
